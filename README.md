@@ -37,5 +37,5 @@ Remember to make sure the `recycle_directory` variable is the same as what was i
  <br/>
 
 ## Limitations
-- You options must be stated before any of the files/directories are given
+- Options must be stated before any of the files/directories are given
 - There is no error handling if a file with the same inode number and name is recycled, as these values are expected to be unique
